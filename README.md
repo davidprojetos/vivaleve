@@ -52,7 +52,7 @@ O site oferece as seguintes funcionalidades:
 Se tiver dúvidas ou sugestões, entre em contato com a equipe:  
 - **Email**: exemplo@email.com  
 - **Instagram**: [@plataforma_saude](https://instagram.com/plataforma_saude)  
-- **WhatsApp**: +55 (XX) XXXXX-XXXX  
+- **WhatsApp**: +55 (XX) XXXXX-XXXXX  
 
 ---
 
